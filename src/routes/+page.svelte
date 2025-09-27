@@ -1,2 +1,9 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script lang="ts">
+	import LoginForm from "$lib/components/login-form.svelte";
+</script>
+
+<div class="bg-background flex min-h-svh flex-col items-center justify-center gap-6 p-6 md:p-10">
+	<div class="w-full max-w-sm">
+		<LoginForm />
+	</div>
+</div>
