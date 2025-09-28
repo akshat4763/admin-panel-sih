@@ -23,9 +23,9 @@
 					<div class="flex size-8 items-center justify-center rounded-md">
 						<GalleryVerticalEndIcon class="size-6" />
 					</div>
-					<span class="sr-only">Acme Inc.</span>
+					<span class="sr-only">Krida Admin</span>
 				</a>
-				<h1 class="text-xl font-bold">Welcome to Acme Inc.</h1>
+				<h1 class="text-xl font-bold">Welcome to Krida Admin</h1>
 				<div class="text-center text-sm">
 					Don&apos;t have an account?
 					<a href="##" class="underline underline-offset-4"> Sign up </a>
